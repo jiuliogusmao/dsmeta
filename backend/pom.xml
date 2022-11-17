@@ -10,9 +10,9 @@
     </parent>
     <groupId>com.devsuperior</groupId>
     <artifactId>dsmeta</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>2.7.1</version>
     <name>dsmeta</name>
-    <description>Projeto da semana Spring React Devsuperior</description>
+    <description>Projeto da Semana Spring React DevSuperior</description>
     <properties>
         <java.version>11</java.version>
     </properties>
@@ -53,7 +53,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
-            
+                        
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-resources-plugin</artifactId>
