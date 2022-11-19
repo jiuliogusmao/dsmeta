@@ -16,7 +16,7 @@ function SalesCard() {
     const [minDate, setminDate] = useState(min);
     const [maxDate, setMaxDate] = useState(max);
 
-    const[sales, setSales] = useState<Sales[]>([]);
+    const[sales, setSales] = useState<Sale[]>([]);
 
     useEffect(() => {
 
